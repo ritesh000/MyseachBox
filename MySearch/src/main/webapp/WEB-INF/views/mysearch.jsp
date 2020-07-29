@@ -19,7 +19,7 @@
 		<div class="card mx-auto mt-5 bg-secondary mb-15" style="width: 50%;">
 
 			<div class="card-body py-5">
-        <h3 class="text-center tect-white "> MY Search </h3>
+				<h3 class="text-center tect-white ">MY Search</h3>
 				<form class="mt-5" action="search">
 					<div class="form-group ">
 						<input type="text" name="querybox"
@@ -27,10 +27,10 @@
 
 					</div>
 					<div>
-					<div class="container text-center">
-					
-					<button class="btn btn-outline-light">Search</button>
-					</div>
+						<div class="container text-center">
+
+							<button class="btn btn-outline-light">Search</button>
+						</div>
 					</div>
 
 				</form>
